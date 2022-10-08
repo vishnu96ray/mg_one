@@ -1,1 +1,1 @@
-web: gunicorn mgOne.wsgi --log-file -
+web: gunicorn mgOne.wsgi
