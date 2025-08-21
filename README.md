@@ -1,10 +1,10 @@
-# mg_one E-Commerce Application
+# E-Commerce Application
 
 This repository contains the source code for **mg_one**, an e-commerce web application. The project is structured as a Django-based backend with several service-specific modules for SMS, payments, stock management, and more.
 
 ## Features
 
-- Product catalog and item attribution
+- Product catalogue and item attribution
 - Location-based inventory and warehouse management
 - SMS notification services (Twilio and Fast2SMS integration)
 - Payment gateway integration (RazorPay)
